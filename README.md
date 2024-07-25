@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Guseynov62
+- 👋 Hi, I’m Famil Huseynov
 - 👀 I’m interested in JavaScript, React, and creating responsive user interfaces
 - 🌱 I’m currently learning advanced CSS techniques, JavaScript frameworks like React and Vue, and best practices for responsive design
 - 💞️ I’m looking to collaborate on open-source projects or freelance work involving web development and front-end design.
